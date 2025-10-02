@@ -1,9 +1,3 @@
-/* 
- * parser.h
- * Programming Assignment 2
- * Fall 2023
-*/
-
 #ifndef PARSER_H_
 #define PARSER_H_
 
@@ -38,3 +32,4 @@ extern bool Range(istream& in, int& line);
 extern int ErrCount();
 
 #endif /* PARSE_H_ */
+
