@@ -1,11 +1,3 @@
-/* Programming Assignment 3
- * Building Interpreter for Simple Ada-Like Language (SADAL)
- * main.cpp
- *
- * CS280 - Spring 2025
- * parser and interpreter testing program
- */
-
 #include <iostream>
 #include <fstream>
 
