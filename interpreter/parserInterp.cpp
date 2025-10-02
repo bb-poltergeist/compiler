@@ -1,9 +1,3 @@
-/* Implementation of Interpreter
-	for the Simple Ada-Like (SADAL) Language
- * parser.cpp
- * Programming Assignment 3
- * Spring 2025
-*/
 #include <iostream>
 #include <vector>
 #include <sstream>
@@ -969,4 +963,5 @@ bool Range(istream& in, int& line, Value& retVal1, Value& retVal2) {
 	}
 
 	return true;
+
 }
