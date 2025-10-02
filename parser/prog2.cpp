@@ -1,9 +1,3 @@
-/*
- * main.cpp
- *
- * CS280 - Spring 2025
- * Testing Program for the SADAL Language Parser 
-*/
 #include <iostream>
 #include <fstream>
 
