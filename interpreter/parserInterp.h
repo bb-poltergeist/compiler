@@ -1,9 +1,3 @@
-/* 
- * parserInterp.h
- * Programming Assignment 3
- * Spring 2025
-*/
-
 #ifndef PARSER_H_
 #define PARSER_H_
 
