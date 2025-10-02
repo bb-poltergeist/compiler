@@ -1,9 +1,3 @@
-/* 
- * parser.h
- * Programming Assignment 2
- * Fall 2023
-*/
-
 #ifndef PARSER_H_
 #define PARSER_H_
 
