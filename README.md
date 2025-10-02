@@ -1,4 +1,4 @@
-Support EBNF Grammar:
+Supported EBNF Grammar:
 ```
 1.  Prog        ::= PROCEDURE ProcName IS ProcBody
 
